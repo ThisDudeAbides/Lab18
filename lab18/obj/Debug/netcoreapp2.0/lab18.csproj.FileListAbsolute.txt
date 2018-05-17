@@ -1,0 +1,11 @@
+c:\users\mssar\source\repos\lab18\lab18\bin\Debug\netcoreapp2.0\lab18.deps.json
+c:\users\mssar\source\repos\lab18\lab18\bin\Debug\netcoreapp2.0\lab18.runtimeconfig.json
+c:\users\mssar\source\repos\lab18\lab18\bin\Debug\netcoreapp2.0\lab18.runtimeconfig.dev.json
+c:\users\mssar\source\repos\lab18\lab18\bin\Debug\netcoreapp2.0\lab18.dll
+c:\users\mssar\source\repos\lab18\lab18\bin\Debug\netcoreapp2.0\lab18.pdb
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.csprojResolveAssemblyReference.cache
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.csproj.CoreCompileInputs.cache
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.AssemblyInfoInputs.cache
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.AssemblyInfo.cs
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.dll
+c:\users\mssar\source\repos\lab18\lab18\obj\Debug\netcoreapp2.0\lab18.pdb
